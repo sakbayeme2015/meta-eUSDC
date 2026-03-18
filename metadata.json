@@ -1,0 +1,12 @@
+{
+  "name": "Bridge Synthetic USDC",
+  "symbol": "eUSDC1",
+  "description": "Stablecoin pegged to USD",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/sakbayeme2015/token-asset/main/0x0b2c639c533813f4aa9d7837caf62653d097ff85.png",
+  "explorer": "https://optimistic.etherscan.io//token/YOUR_CONTRACT",
+  "social": {
+    "twitter": "https://twitter.com/yourproject",
+    "telegram": "https://t.me/yourproject"
+  }
+}
