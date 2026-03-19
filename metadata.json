@@ -5,9 +5,10 @@
   "decimals": 6,
   "logoURI": "https://raw.githubusercontent.com/sakbayeme2015/token-asset/main/0x0b2c639c533813f4aa9d7837caf62653d097ff85.png",
   "chainId": 10,
+  "address": "0xDAC0b44Db81E993101e71950fB3d7F495241cc71",
   "tags": ["stablecoin"],
   "extensions": {
-    "coingeckoId": "",
+    "coingeckoId": "tether",
     "cmcId": ""
   }
 }
